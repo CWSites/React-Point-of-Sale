@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "barcode": 11111,
+      "name": "apple",
+      "price": 5.25
+    },
+    {
+      "barcode": 22222,
+      "name": "banana",
+      "price": 1.25
+    },
+    {
+      "barcode": 33333,
+      "name": "orange",
+      "price": 2.25
+    },
+    {
+      "barcode": 44444,
+      "name": "pineapple",
+      "price": 4.0
+    },
+    {
+      "barcode": 55555,
+      "name": "pear",
+      "price": 3.0
+    }
+  ]
+}
