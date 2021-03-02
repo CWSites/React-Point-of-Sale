@@ -1,12 +1,18 @@
 # React-Point-of-Sale
 
+## Getting Started
+
+- Run `yarn start` and it will be available on [http://localhost:3000](http://localhost:3000)
+
 ## Assumptions
+
 - Input device: Barcode scanner with Exit button
 - Two output devices:
-  - LCD Display 
+  - LCD Display
   - Printer
 
 ## Functionality
+
 - Single product sale
   - Barcode is being scanned
   - If the product is found in the database then the product name and price is printed on LCD Display
